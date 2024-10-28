@@ -22,3 +22,7 @@ O sistema permite que usuários realizem as seguintes operações:
 - `Funcionario.java`: Classe que representa um funcionário da biblioteca.
 - `Aluguel.java`: Classe que gerencia os aluguéis de livros.
 - `Main.java`: Classe principal que executa o programa.
+
+
+## Diagrama de Classes
+![Diagrama de Classe](./docs/biblioteca_diagrama01.png)
